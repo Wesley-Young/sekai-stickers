@@ -1,6 +1,22 @@
 Note: This app is no longer maintained as I'm working on an upcoming app. Stay tuned for updates!
 ---
 
+## Development
+
+This project uses Vite and requires Node.js 20.19 or newer.
+
+```sh
+npm install
+npm run dev
+```
+
+Create and preview a production build with:
+
+```sh
+npm run build
+npm run preview
+```
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
